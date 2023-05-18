@@ -1,0 +1,34 @@
+@media (min-width: 768px)
+{
+  :host ::ng-deep .container 
+    {
+        max-width: unset !important;
+    }
+}
+
+
+@media (min-width: 576px)
+{
+    :host ::ng-deep .container {
+        max-width: unset !important;
+    }
+
+}
+
+
+@media (min-width: 1200px)
+{
+    :host ::ng-deep .container {
+        max-width: unset !important;
+    }
+
+}
+
+
+@media (min-width: 992px)
+{
+
+    :host ::ng-deep .container {
+        max-width: unset !important;
+    }
+}
